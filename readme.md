@@ -28,7 +28,7 @@ Ikuti langkah-langkah mudah ini untuk menjalankan SIMDetect di sistem Kali Linux
 2.  **Kloning repositori ini:**
     Perintah ini akan mengunduh semua file tools SIMDetect ke komputer Anda.
     ```bash
-    git clone [https://github.com/mhdayattt/SIMDetect.git](https://github.com/mhdayattt/SIMDetect.git)
+    git clone [https://github.com/mhdayattt/SIMDetect.git]((https://github.com/mhdayattt/SimDetect.git))
     ```
 
 3.  **Masuk ke direktori tools:**
@@ -55,7 +55,6 @@ Ikuti langkah-langkah mudah ini untuk menjalankan SIMDetect di sistem Kali Linux
 ## 🙏 Kontributor
 
 * Dibuat oleh [YatAja](https://github.com/mhdayattt)
-* Terinspirasi dari tools informasi nomor telepon yang sudah ada.
 
 ## 📄 Lisensi
 
