@@ -2,6 +2,7 @@
 
 [![Versi Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![Lisensi: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="preview.png" alt="Contoh Tampilan SIMDetect" width="500">
 
 Sebuah tools berbasis command-line (CLI) yang berfokus pada penyediaan informasi akurat mengenai nomor telepon, termasuk validasi, tipe (seluler/telepon rumah/VOIP), operator, negara, dan zona waktu.
 
